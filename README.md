@@ -1,4 +1,4 @@
-# Github Purposes
-# So makikita mo ito ay main gets? basta main toh pupush ko toh
-# diba nakuha nya na HAHA nasa develop na tayo gets mo? di? 
-# oh gento pag nag add ako sa anak na toh or develop di makukuha ng main or parent kasi nga local toh kumbaga itong branch lang meron or itong anak lang meron oo tama tama kumbaga pag binigyan kita ng candy sayo lang yun wala iba unless i shashare mo geets?
+# Anak ni develop 
+# nakuha na ni develop taz papasa na nya sa tatay nya which is main gets?
+# but if lumipat ako sa main now iba nakalagay
+# anu mangyayari if nilagay ko sa main toh? noo mapapalitan yung nakalagay sa main at ito yung lalagay sa main sira looook watch n learn pag minerge ko sa main toh mapapalitan yun realtime
